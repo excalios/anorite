@@ -19,7 +19,8 @@
       "executor": "@nrwl/next:server",
       "options": {
         "buildTarget": "anorite:build",
-        "dev": true
+        "dev": true,
+        "proxyConfig": "apps/anorite/proxy.conf.json"
       },
       "configurations": {
         "production": {

@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "anorite": "apps/anorite",
-    "anorite-e2e": "apps/anorite-e2e"
+    "anorite-e2e": "apps/anorite-e2e",
+    "api": "apps/api"
   }
 }
